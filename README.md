@@ -27,7 +27,7 @@ The original NO₂ values (`x`) are transformed into a new variable (`z`) using:
 z = x + a_r \cdot \sin(b_r \cdot x)
 \]
 
-**Roll Number:** `102303724`  
+**Roll Number:** `102303717`  
 Derived constants:
 - `a_r = 0.25`
 - `b_r = 1.5`
@@ -47,9 +47,9 @@ Derived constants:
 
 | Parameter | Value |
 |---------|-------|
-| Lambda (λ) | 0.0014617052940514906 |
-| Mu (μ) | 25.818063543032295 |
-| c | 0.021570239817484047 |
+| Lambda (λ) | 0.0014590905290116402 |
+| Mu (μ) | 25.802708360471062 |
+| c | 0.021550938267777164 |
 
 ---
 
